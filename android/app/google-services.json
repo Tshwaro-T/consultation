@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201426968716",
+    "project_id": "consultation-app-fbe96",
+    "storage_bucket": "consultation-app-fbe96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201426968716:android:5527a0890b697750b89ba9",
+        "android_client_info": {
+          "package_name": "com.example.consulationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-ByyHcuOYwDtCpFfFfl8sqDbBHq1O9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
